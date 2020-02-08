@@ -1,0 +1,20 @@
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\SudokuAleatorio.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\bin\Debug\sudoku2.xml
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\SudokuAleatorio.vbprojAssemblyReference.cache
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\SudokuAleatorio.vbproj.GenerateResource.cache
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\SudokuAleatorio.vbproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\SudokuAleatorio\SudokuAleatorio\obj\x86\Debug\sudoku2.pdb

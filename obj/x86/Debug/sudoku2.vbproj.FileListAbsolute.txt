@@ -1,0 +1,90 @@
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.exe
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.pdb
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.xml
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.exe
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.xml
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.pdb
+c:\users\david\documents\visual studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Documents\Visual Studio 2010\Projects\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\REVISION 1 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+E:\REVISION 2 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+E:\REVISION 4 SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+E:\REVISION 4b SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\CALCULO II\REVISION 4c SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\CALCULO II\REVISION 4d SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.xml
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.FrmPrincipal.resources
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.Resources.resources
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\obj\x86\Debug\sudoku2.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\david\Desktop\2do Semestre v2\CALCULO II\REVISION 4e SUDOKU PROYECTO\sudoku aleatorio\sudoku2\bin\Debug\sudoku2.xml
